@@ -1,10 +1,5 @@
 ##xiangxin 1.0 
 编译内核
-首先将编译内核工具链加入到你的环境配置
-
-如 
-export ARCH=arm
-export CROSS_COMPILE=~/kernel/toolchain/arm-eabi-linaro-4.6.2/bin/arm-eabi-
 
 改变kernel/makefile  里面的工具链
 
